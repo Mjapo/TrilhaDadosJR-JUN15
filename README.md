@@ -84,7 +84,7 @@ dessa forma conseguimos saber o valor da receita total e ainda assim criamos o v
 
 ----
 
-### Receit de Cada Curso 
+### Receita de Cada Curso 
 
 ![alt text](image-11.png)
 
