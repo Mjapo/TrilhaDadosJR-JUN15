@@ -73,7 +73,7 @@ Neste histograma podemos entender como os preços dos cursos estão distribuído
 ----
 
 
-###  Receita por Curso 
+###  Receita Total 
 
 Para identificarmos o valor da receita  Cursos['Receita'] = Cursos['Quantidade de Vendas'] * Cursos['Preço Unitário']
 dessa forma conseguimos saber o valor da receita total e ainda assim criamos o valor da receita de cada curso 
@@ -84,6 +84,12 @@ dessa forma conseguimos saber o valor da receita total e ainda assim criamos o v
 
 ----
 
+### Receit de Cada Curso 
+
+![alt text](image-11.png)
+
+
+----
 
 ### Curso Mais vendido 
 
